@@ -1,0 +1,2 @@
+# Agriculture-Crop-Yielding-and-Paddy-Disease-Detection-Using-Machine-Learning
+This project focuses on building a predictive system for agricultural crop yield and disease detection using machine learning models. By leveraging historical data on weather, pesticides, temperature, and disease symptoms, this project aims to estimate crop yields and detect potential diseases for various regions and crop types.
